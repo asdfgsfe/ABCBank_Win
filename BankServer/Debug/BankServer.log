@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(H:\CppThirdSeasonCourse\38\ABCBank\BankServer\Debug\BankServer.exe) does not match the Linker's OutputFile property value (H:\CppThirdSeasonCourse\38\ABCBank\Bin\BankServer.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-Date.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
-  BankServer.vcxproj -> H:\CppThirdSeasonCourse\38\ABCBank\BankServer\Debug\BankServer.exe
-  BankServer.vcxproj -> H:\CppThirdSeasonCourse\38\ABCBank\BankServer\Debug\BankServer.pdb (Full PDB)
